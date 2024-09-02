@@ -1,0 +1,1 @@
+chrome-extension://ifibfemgeogfhoebkmokieepdoobkbpo/content/captcha/keycaptcha/processor.js

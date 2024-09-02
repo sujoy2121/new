@@ -1,0 +1,22 @@
+{
+  "name": "Space Adv",
+  "description": "Space Adv application",
+  "start_url": "/",
+  "lang": "ru",
+  "theme_color": "#000036",
+  "display": "fullscreen",
+
+  "short_name": "Space Adv",
+  "background_color": "#000036",
+
+  "icons": [
+    {
+      "src": ""
+    }
+  ],
+  "screenshots": [
+    {
+      "src": ""
+    }
+  ]
+}

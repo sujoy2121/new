@@ -1,0 +1,1 @@
+chrome-extension://feahianecghpnipmhphmfgmpdodhcapi/content-script.bundle.js

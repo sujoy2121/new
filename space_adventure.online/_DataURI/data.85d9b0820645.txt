@@ -1,0 +1,1 @@
+chrome-extension://ifibfemgeogfhoebkmokieepdoobkbpo/vendor/jquery/3.5.1/jquery.min.js

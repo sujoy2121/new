@@ -1,0 +1,1 @@
+chrome-extension://ifibfemgeogfhoebkmokieepdoobkbpo/content/captcha/geetest_v4/processor.js

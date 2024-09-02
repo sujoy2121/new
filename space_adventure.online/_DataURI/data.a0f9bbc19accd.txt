@@ -1,0 +1,1 @@
+chrome-extension://feahianecghpnipmhphmfgmpdodhcapi/intercept.bundle.js
